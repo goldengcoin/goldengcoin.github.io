@@ -13,6 +13,16 @@ At Goldeng, we simplify the creation of memecoins with just a few clicks, removi
 
 ---
 
+### ⚙️ **Smart Launch (Optional Feature)**
+
+Our **Smart Launch** feature allows creators to launch memecoins with an initial **100% sell fee** that gradually decreases over a set period. This feature can be customized during token creation, enabling you to define how long the sell fee will reduce to 0%. For example, if a creator sets the duration to 2 hours, the sell fee will gradually decrease from 100% to 0% over that time frame.
+
+- **Applies Only to Sell Transactions**: The fee only impacts selling, not buying.
+- **Prevents Early Sales**: This mechanism helps prevent bots or early sellers from exploiting the token right after launch.
+- **Customizable Duration**: You choose the time period during creation for how long the sell fee will decrease.
+
+---
+
 ### 🎉 **Staking Rewards**
 
 1% of the total supply of each token is allocated to staking rewards. This encourages a virtuous cycle, helping new tokens gather more holders and fostering a strong community from the start.
