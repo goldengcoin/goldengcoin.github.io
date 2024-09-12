@@ -1,15 +1,42 @@
-## Hi there 👋
+# **Goldeng: The Future of Meme Coins**
 
-Many people are venturing into the world of cryptocurrencies, drawn by the appeal of memes. However, many of these enthusiasts are new to crypto but have a deep love for memes, many take advantage of these people. This is where Goldeng comes in. Our mission is to make the entire process fast, simple, enjoyable and safe.
+Many people are venturing into the world of cryptocurrencies, drawn by the appeal of memes. However, a lot of these enthusiasts are new to crypto but have a deep love for memes, which makes them vulnerable to exploitation. This is where **Goldeng** steps in. Our mission is to make the entire process fast, simple, enjoyable, and safe.
 
-Easy Meme Creation:
-At Goldeng, we simplify the creation of memecoins with just a few clicks, removing the usual complexities of launching a new token. Every time a meme is created you can trade it without the need to put up liquidity. In addition, it contains a security system to avoid bots. We explain how later.
+---
 
-Staking Rewards:
-1% of the max supply of each token creation is dedicated to staking rewards, which encourages a virtuous cycle that also helps new tokens have more holders.
+### 🚀 **Easy Meme Creation**
 
-Hall of Fame:
-There are memes that become very famous, many people would like to have a virtual version or a real version of their meme, this area is for the DAO, the objective is to create toys and give them physically, using a payment like Coinbase or some exchange that has KYC, if it is a country with crypto restrictions you can choose to get it ont in NFT format. These NFTs do not have a Max supply but the first 5000 of these NFTs will have a wallet which contains a small amount of random memes.
+At Goldeng, we simplify the creation of memecoins with just a few clicks, removing the usual complexities of launching a new token.
 
-Degen:
-Every time a token is created, a liquidity pool is created with 1 wei and a very very small percentage of the tokens created, which makes it possible to trade these tokens from the beginning, 10% of the supply of these tokens is given as an airdrop in a smart contract, in exchange a minimum of 0.0001 eth is requested, this eth goes to the liquidity pool, doing this makes it possible for anyone to trade any meme with very little liquidity, but enough so that they can have fun trading them, the details of the contracts and how this system works are detailed on the github.
+- **Trade Instantly**: Every time a meme is created, you can trade it without needing to provide liquidity.
+- **Bot Protection**: We've implemented a security system to protect against bots. More on this in our [security documentation](#).
+
+---
+
+### 🎉 **Staking Rewards**
+
+1% of the total supply of each token is allocated to staking rewards. This encourages a virtuous cycle, helping new tokens gather more holders and fostering a strong community from the start.
+
+---
+
+### 🏆 **Hall of Fame**
+
+Some memes reach legendary status, and many people would love to own a virtual or physical version of their favorite meme.
+
+- **DAO-Driven Initiative**: This area allows the community to create and receive physical meme collectibles.
+- **Legal and Secure Payments**: To ensure compliance with legal requirements, we use **Coinbase** for payments. For countries with crypto restrictions, users can choose to receive their meme collectible in NFT format.
+- **First Edition NFTs**: While there’s no max supply for these NFTs, the first 5000 will include a wallet containing a small amount of random memes.
+
+---
+
+### 💎 **Degen: Trade Memes from Day One**
+
+For each token created:
+- A liquidity pool is set up with **1 wei** and a small fraction of the new tokens, enabling trading from the get-go.
+- 10% of the token supply is airdropped to a smart contract, with a minimum contribution of **0.0001 ETH**. This ETH is added to the liquidity pool, making it possible to trade memes with low liquidity but still enough to have fun.
+
+For more details, check out the contracts and how this system works on our [GitHub](#).
+
+---
+
+Goldeng is here to make meme coin creation and trading fun, easy, and secure. Dive into the world of memes with us!
